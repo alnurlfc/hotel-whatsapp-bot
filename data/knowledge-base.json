@@ -1,0 +1,92 @@
+{
+  "faq": [
+    {
+      "question": "Luggage room",
+      "answer": "You can leave your luggage securely in our luggage room at Villa Wagner (Jecna 39).",
+      "answer_en": "You can leave your luggage securely in our luggage room at Villa Wagner (Jecna 39).",
+      "answer_ru": "Вы можете безопасно оставить багаж в камере хранения в Villa Wagner (Jecna 39).",
+      "answer_cs": "Zavazadla muzete bezpecne ulozit v ulozne zavazadel ve Villa Wagner (Jecna 39).",
+      "keywords": ["luggage", "bag", "storage", "room", "left luggage", "багаж", "камера хранения", "zavazadla", "ulozit zavazadla"]
+    },
+    {
+      "question": "Check-in time",
+      "answer": "Check-in starts at 14:00. If you arrive earlier, you can leave your luggage at Villa Wagner (Jecna 39).",
+      "answer_en": "Check-in starts at 14:00. If you arrive earlier, you can leave your luggage at Villa Wagner (Jecna 39).",
+      "answer_ru": "Заезд начинается с 14:00. Если вы приезжаете раньше, можно оставить багаж в Villa Wagner (Jecna 39).",
+      "answer_cs": "Check-in zacina ve 14:00. Pokud prijedete drive, muzete nechat zavazadla ve Villa Wagner (Jecna 39).",
+      "keywords": ["check in", "check-in", "arrival", "14:00", "early", "заезд", "чекайн", "checkin", "prijezd", "check-in cas"]
+    },
+    {
+      "question": "Check-out time",
+      "answer": "Check-out is until 11:00. After check-out, you can leave your luggage securely at Villa Wagner (Jecna 39).",
+      "answer_en": "Check-out is until 11:00. After check-out, you can leave your luggage securely at Villa Wagner (Jecna 39).",
+      "answer_ru": "Выезд до 11:00. После выезда можно безопасно оставить багаж в Villa Wagner (Jecna 39).",
+      "answer_cs": "Check-out je do 11:00. Po odjezdu muzete bezpecne ulozit zavazadla ve Villa Wagner (Jecna 39).",
+      "keywords": ["check out", "check-out", "departure", "11:00", "late checkout", "выезд", "чекаут", "checkout", "odjezd", "check-out cas"]
+    },
+    {
+      "question": "Airport transfer",
+      "answer": "We can arrange airport transfer. Price: 35 EUR per car one way (3-4 people) or 51 EUR for minivan (up to 8 people). Round-trip: 58 EUR per car or 87 EUR for minivan. To book, email front.desk@royalcourthotel.cz with your flight number and arrival/pick-up time.",
+      "answer_en": "We can arrange airport transfer. Price: 35 EUR per car one way (3-4 people) or 51 EUR for minivan (up to 8 people). Round-trip: 58 EUR per car or 87 EUR for minivan. To book, email front.desk@royalcourthotel.cz with your flight number and arrival/pick-up time.",
+      "answer_ru": "Мы можем организовать трансфер из/в аэропорт. Цена: 35 EUR за машину в одну сторону (3-4 человека) или 51 EUR за минивэн (до 8 человек). Туда-обратно: 58 EUR за машину или 87 EUR за минивэн. Для брони напишите на front.desk@royalcourthotel.cz номер рейса и время прилета/выезда.",
+      "answer_cs": "Muzeme zaridit transfer z/na letiste. Cena: 35 EUR za auto jednim smerem (3-4 osoby) nebo 51 EUR za minivan (do 8 osob). Zpetna cesta: 58 EUR za auto nebo 87 EUR za minivan. Pro rezervaci napiste na front.desk@royalcourthotel.cz cislo letu a cas prijezdu/vyzvednuti.",
+      "keywords": ["transfer", "airport", "taxi", "shuttle", "pickup", "minivan", "трансфер", "аэропорт", "такси", "transfer z letiste", "letiste"]
+    },
+    {
+      "question": "How to check in",
+      "answer": "You can complete check-in independently via the self check-in kiosk inside the building. Use code 3621# at the main entrance, then use the kiosk on the left side. You need your booking number and a valid passport or EU citizen ID card.",
+      "answer_en": "You can complete check-in independently via the self check-in kiosk inside the building. Use code 3621# at the main entrance, then use the kiosk on the left side. You need your booking number and a valid passport or EU citizen ID card.",
+      "answer_ru": "Вы можете пройти самостоятельный заезд через киоск self check-in внутри здания. Для входа используйте код 3621# на главной двери, затем слева будет киоск. Нужны номер брони и действующий паспорт или ID-карта гражданина ЕС.",
+      "answer_cs": "Check-in muzete provest samostatne pres self check-in kiosk uvnitr budovy. Pro vstup pouzijte kod 3621# na hlavnich dverich, kiosk je vlevo. Potrebujete cislo rezervace a platny pas nebo obcansky prukaz EU.",
+      "keywords": ["self check-in", "kiosk", "code", "3621", "booking number", "passport", "id card", "самостоятельный заезд", "код", "бронь", "kiosk", "kod", "rezervace"]
+    },
+    {
+      "question": "What is booking number",
+      "answer": "Booking number is the number you receive after making a reservation.",
+      "answer_en": "Booking number is the number you receive after making a reservation.",
+      "answer_ru": "Номер брони — это номер, который вы получаете после оформления бронирования.",
+      "answer_cs": "Cislo rezervace je cislo, ktere obdrzite po provedeni rezervace.",
+      "keywords": ["booking number", "reservation number", "confirmation", "номер брони", "номер резервации", "cislo rezervace", "potvrzeni"]
+    },
+    {
+      "question": "Booking number is not working",
+      "answer": "Please contact the portal where you made your reservation, or send your full name from the reservation and wait for reception response.",
+      "answer_en": "Please contact the portal where you made your reservation, or send your full name from the reservation and wait for reception response.",
+      "answer_ru": "Пожалуйста, свяжитесь с порталом, где вы сделали бронирование, или отправьте полное имя из брони и дождитесь ответа ресепшн.",
+      "answer_cs": "Kontaktujte prosim portal, kde jste rezervaci vytvorili, nebo poslete cele jmeno z rezervace a pockejte na odpoved recepce.",
+      "keywords": ["booking number not working", "invalid booking", "reservation issue", "name", "surname", "не работает номер брони", "фамилия", "jmeno", "prijmeni", "cislo rezervace nefunguje"]
+    },
+    {
+      "question": "Parking",
+      "answer": "Parking is available in neighboring buildings for around 20 EUR per night (depends on car size and availability). To reserve, email front.desk@royalcourthotel.cz with car model and exact dimensions.",
+      "answer_en": "Parking is available in neighboring buildings for around 20 EUR per night (depends on car size and availability). To reserve, email front.desk@royalcourthotel.cz with car model and exact dimensions.",
+      "answer_ru": "Парковка доступна в соседних зданиях примерно за 20 EUR за ночь (зависит от размера авто и наличия мест). Для брони отправьте на front.desk@royalcourthotel.cz модель и точные размеры автомобиля.",
+      "answer_cs": "Parkovani je k dispozici v sousednich budovach cca za 20 EUR za noc (zalezi na velikosti vozu a dostupnosti). Pro rezervaci poslete na front.desk@royalcourthotel.cz model auta a presne rozmery.",
+      "keywords": ["parking", "car", "20 eur", "reserve parking", "dimensions", "парковка", "паркинг", "машина", "parkovani", "auto", "garaz"]
+    },
+    {
+      "question": "SPA",
+      "answer": "We do not offer SPA services, but we can arrange Thai massage. Please email front.desk@royalcourthotel.cz.",
+      "answer_en": "We do not offer SPA services, but we can arrange Thai massage. Please email front.desk@royalcourthotel.cz.",
+      "answer_ru": "Мы не предоставляем SPA-услуги, но можем организовать тайский массаж. Напишите на front.desk@royalcourthotel.cz.",
+      "answer_cs": "SPA sluzby nenabizime, ale muzeme zaridit thajskou masaz. Napisete prosim na front.desk@royalcourthotel.cz.",
+      "keywords": ["spa", "massage", "thai massage", "wellness", "спа", "массаж", "thai", "masaz", "wellness"]
+    },
+    {
+      "question": "Breakfast",
+      "answer": "We recommend Coffee Factory. Hotel guests receive 10% discount on the full menu. Please inform cafe staff at payment that you are a guest.",
+      "answer_en": "We recommend Coffee Factory. Hotel guests receive 10% discount on the full menu. Please inform cafe staff at payment that you are a guest.",
+      "answer_ru": "Рекомендуем кофейню Coffee Factory. Гости отеля получают скидку 10% на все меню. При оплате сообщите, что вы гость отеля.",
+      "answer_cs": "Doporucujeme kavarnu Coffee Factory. Hoste hotelu maji 10% slevu na cele menu. Pri platbe informujte personal, ze jste host hotelu.",
+      "keywords": ["breakfast", "coffee factory", "discount", "10%", "cafe", "завтрак", "кофе", "скидка", "snidane", "sleva", "kavarna"]
+    },
+    {
+      "question": "Contact reception",
+      "answer": "For additional help, please write in this chat or contact front desk at front.desk@royalcourthotel.cz.",
+      "answer_en": "For additional help, please write in this chat or contact front desk at front.desk@royalcourthotel.cz.",
+      "answer_ru": "Для дополнительной помощи напишите в этот чат или свяжитесь с ресепшн: front.desk@royalcourthotel.cz.",
+      "answer_cs": "Pro dalsi pomoc napiste do tohoto chatu nebo kontaktujte recepci: front.desk@royalcourthotel.cz.",
+      "keywords": ["reception", "front desk", "help", "contact", "administrator", "ресепшн", "администратор", "помощь", "recepce", "pomoc", "kontakt"]
+    }
+  ]
+}
