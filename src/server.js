@@ -105,27 +105,47 @@ app.post("/webhook", async (req, res) => {
               en: "Language set to English. How can I help you?",
               cs: "Jazyk nastaven na cestinu. Jak vam mohu pomoci?"
             };
+            await appendLogToGoogleSheets({
+              guestPhone: from,
+              lang: selectedLang,
+              eventType: "language_selected",
+              question: incomingText,
+              answer: confirmByLang[selectedLang],
+              escalated: false
+            });
             await sendWhatsAppMessage(from, confirmByLang[selectedLang]);
             continue;
           }
 
           const savedLang = guestLanguagePrefs.get(from);
           if (!savedLang) {
+            await appendLogToGoogleSheets({
+              guestPhone: from,
+              lang: "unknown",
+              eventType: "language_prompt",
+              question: incomingText,
+              answer: "Language selection prompt sent",
+              escalated: false
+            });
             await sendLanguageSelectionPrompt(from);
             continue;
           }
 
           const lang = savedLang;
           const replyText = await buildReply(incomingText, lang);
+          const escalated = shouldEscalate(incomingText);
           await appendLogToGoogleSheets({
             guestPhone: from,
+            lang,
+            eventType: "guest_message",
             question: incomingText,
-            answer: replyText
+            answer: replyText,
+            escalated
           });
 
           await sendWhatsAppMessage(from, replyText);
 
-          if (shouldEscalate(incomingText)) {
+          if (escalated) {
             await notifyAdmin(from, incomingText);
           }
         } catch (err) {
@@ -529,7 +549,14 @@ async function notifyAdmin(guestPhone, guestQuestion) {
   }
 }
 
-async function appendLogToGoogleSheets({ guestPhone, question, answer }) {
+async function appendLogToGoogleSheets({
+  guestPhone,
+  lang = "unknown",
+  eventType = "guest_message",
+  question,
+  answer,
+  escalated = false
+}) {
   if (!ENABLE_GOOGLE_SHEETS_LOGGING) {
     return;
   }
@@ -549,7 +576,7 @@ async function appendLogToGoogleSheets({ guestPhone, question, answer }) {
     const sheets = google.sheets({ version: "v4", auth });
     await sheets.spreadsheets.values.append({
       spreadsheetId: GOOGLE_SHEETS_ID,
-      range: `${GOOGLE_SHEET_NAME}!A:F`,
+      range: `${GOOGLE_SHEET_NAME}!A:H`,
       valueInputOption: "USER_ENTERED",
       requestBody: {
         values: [
@@ -557,9 +584,11 @@ async function appendLogToGoogleSheets({ guestPhone, question, answer }) {
             new Date().toISOString(),
             HOTEL_NAME,
             guestPhone,
+            lang,
+            eventType,
             question,
             answer,
-            shouldEscalate(question) ? "YES" : "NO"
+            escalated ? "YES" : "NO"
           ]
         ]
       }

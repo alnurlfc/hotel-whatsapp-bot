@@ -131,6 +131,8 @@ ngrok http 3000
 - timestamp
 - hotel
 - guest_phone
+- lang
+- event_type
 - question
 - answer
 - escalated

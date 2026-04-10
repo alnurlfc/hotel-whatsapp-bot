@@ -81,6 +81,134 @@
       "keywords": ["breakfast", "coffee factory", "discount", "10%", "cafe", "завтрак", "кофе", "скидка", "snidane", "sleva", "kavarna"]
     },
     {
+      "question": "Wi-Fi",
+      "answer": "Free Wi-Fi is available in all rooms and common areas. If the connection does not work, contact reception.",
+      "answer_en": "Free Wi-Fi is available in all rooms and common areas. If the connection does not work, contact reception.",
+      "answer_ru": "Бесплатный Wi-Fi доступен во всех номерах и зонах отеля. Если интернет не работает, свяжитесь с ресепшн.",
+      "answer_cs": "Bezplatna Wi-Fi je dostupna ve vsech pokojich i spolecnych prostorach. Pokud internet nefunguje, kontaktujte recepci.",
+      "keywords": ["wifi", "wi-fi", "internet", "password", "пароль", "вайфай", "wi fi", "heslo", "internet nefunguje"]
+    },
+    {
+      "question": "Room cleaning",
+      "answer": "If you need extra cleaning or fresh towels, please contact reception in this chat.",
+      "answer_en": "If you need extra cleaning or fresh towels, please contact reception in this chat.",
+      "answer_ru": "Если вам нужна дополнительная уборка или свежие полотенца, напишите на ресепшн в этом чате.",
+      "answer_cs": "Pokud potrebujete extra uklid nebo ciste rucniky, napiste prosim recepci do tohoto chatu.",
+      "keywords": ["cleaning", "housekeeping", "towel", "уборка", "полотенца", "uklid", "rucniky"]
+    },
+    {
+      "question": "Late check-out",
+      "answer": "Late check-out is possible only upon availability. Please contact reception in advance.",
+      "answer_en": "Late check-out is possible only upon availability. Please contact reception in advance.",
+      "answer_ru": "Поздний выезд возможен только при наличии свободных номеров. Пожалуйста, заранее уточните на ресепшн.",
+      "answer_cs": "Pozdni check-out je mozny pouze podle dostupnosti. Kontaktujte prosim recepci predem.",
+      "keywords": ["late check-out", "late checkout", "поздний выезд", "pozdni odjezd"]
+    },
+    {
+      "question": "Early check-in",
+      "answer": "Early check-in is possible only upon availability. If room is not ready, you can leave luggage at Villa Wagner (Jecna 39).",
+      "answer_en": "Early check-in is possible only upon availability. If room is not ready, you can leave luggage at Villa Wagner (Jecna 39).",
+      "answer_ru": "Ранний заезд возможен только при наличии свободного номера. Если номер не готов, можно оставить багаж в Villa Wagner (Jecna 39).",
+      "answer_cs": "Brzky check-in je mozny pouze podle dostupnosti. Pokud pokoj neni pripraven, muzete nechat zavazadla ve Villa Wagner (Jecna 39).",
+      "keywords": ["early check-in", "early checkin", "ранний заезд", "brzky check in"]
+    },
+    {
+      "question": "Invoice and payment documents",
+      "answer": "For invoice or payment confirmation, please send your booking details and billing data to front.desk@royalcourthotel.cz.",
+      "answer_en": "For invoice or payment confirmation, please send your booking details and billing data to front.desk@royalcourthotel.cz.",
+      "answer_ru": "Для счета или подтверждения оплаты отправьте данные бронирования и реквизиты на front.desk@royalcourthotel.cz.",
+      "answer_cs": "Pro fakturu nebo potvrzeni platby poslete udaje o rezervaci a fakturacni data na front.desk@royalcourthotel.cz.",
+      "keywords": ["invoice", "receipt", "payment", "счет", "чек", "faktura", "platba"]
+    },
+    {
+      "question": "Extra bed and baby cot",
+      "answer": "Extra bed or baby cot depends on room type and availability. Please contact reception before arrival.",
+      "answer_en": "Extra bed or baby cot depends on room type and availability. Please contact reception before arrival.",
+      "answer_ru": "Дополнительная кровать или детская кроватка зависит от типа номера и наличия. Уточните заранее на ресепшн.",
+      "answer_cs": "Pristylka nebo detska postylka zavisi na typu pokoje a dostupnosti. Kontaktujte recepci pred prijezdem.",
+      "keywords": ["extra bed", "baby cot", "crib", "доп кровать", "детская кроватка", "pristylka", "postylka"]
+    },
+    {
+      "question": "Pets",
+      "answer": "Please contact reception in advance to confirm pet policy for your booking.",
+      "answer_en": "Please contact reception in advance to confirm pet policy for your booking.",
+      "answer_ru": "Пожалуйста, заранее свяжитесь с ресепшн, чтобы уточнить правила размещения с питомцами для вашей брони.",
+      "answer_cs": "Prosim kontaktujte recepci predem a overte podminky ubytovani se zviraty pro vasi rezervaci.",
+      "keywords": ["pets", "dog", "cat", "животные", "собака", "кошка", "zvirata", "pes", "kocka"]
+    },
+    {
+      "question": "Quiet hours and noise complaint",
+      "answer": "If there is noise or disturbance, please write immediately in this chat and we will contact reception staff.",
+      "answer_en": "If there is noise or disturbance, please write immediately in this chat and we will contact reception staff.",
+      "answer_ru": "Если в номере шум или беспокойство, сразу напишите в этот чат — мы передадим запрос сотруднику ресепшн.",
+      "answer_cs": "Pokud je hluk nebo ruseni, napiste ihned do tohoto chatu a predame to recepci.",
+      "keywords": ["noise", "complaint", "quiet", "шум", "жалоба", "тихо", "hluk", "stiznost"]
+    },
+    {
+      "question": "Lost and found",
+      "answer": "If you forgot an item, send room number, stay dates, and item description in this chat or to front.desk@royalcourthotel.cz.",
+      "answer_en": "If you forgot an item, send room number, stay dates, and item description in this chat or to front.desk@royalcourthotel.cz.",
+      "answer_ru": "Если вы забыли вещь, отправьте номер комнаты, даты проживания и описание предмета в этот чат или на front.desk@royalcourthotel.cz.",
+      "answer_cs": "Pokud jste zapomneli vec, poslete cislo pokoje, datum pobytu a popis predmetu do tohoto chatu nebo na front.desk@royalcourthotel.cz.",
+      "keywords": ["lost", "found", "forgot", "забыли", "потеря", "zapomnel", "ztratil"]
+    },
+    {
+      "question": "Emergency",
+      "answer": "For emergencies (fire, injury, immediate danger), call local emergency services first and then contact reception in this chat.",
+      "answer_en": "For emergencies (fire, injury, immediate danger), call local emergency services first and then contact reception in this chat.",
+      "answer_ru": "При чрезвычайной ситуации (пожар, травма, непосредственная опасность) сначала позвоните в экстренные службы, затем напишите на ресепшн в этот чат.",
+      "answer_cs": "V pripade nouze (pozar, zraneni, bezprostredni nebezpeci) nejdrive volejte zachranne slozky a potom kontaktujte recepci v tomto chatu.",
+      "keywords": ["emergency", "fire", "help", "авария", "пожар", "срочно", "nouze", "pozar", "pomoc"]
+    },
+    {
+      "question": "Cancellation and refund",
+      "answer": "Cancellation and refund conditions depend on your booking source and rate. Please contact the booking portal or reception with reservation details.",
+      "answer_en": "Cancellation and refund conditions depend on your booking source and rate. Please contact the booking portal or reception with reservation details.",
+      "answer_ru": "Условия отмены и возврата зависят от источника и тарифа бронирования. Свяжитесь с порталом бронирования или ресепшн, указав данные брони.",
+      "answer_cs": "Podminky zruseni a vraceni penez zavisi na zdroji rezervace a tarifu. Kontaktujte portal rezervace nebo recepci s udaji rezervace.",
+      "keywords": ["cancellation", "refund", "cancel booking", "отмена", "возврат", "storno", "vraceni penez"]
+    },
+    {
+      "question": "Late arrival after midnight",
+      "answer": "Late arrival is possible. Please send your expected arrival time in advance so reception can prepare check-in instructions.",
+      "answer_en": "Late arrival is possible. Please send your expected arrival time in advance so reception can prepare check-in instructions.",
+      "answer_ru": "Поздний заезд после полуночи возможен. Пожалуйста, заранее сообщите время прибытия, чтобы ресепшн подготовил инструкции по заезду.",
+      "answer_cs": "Pozdni prijezd po pulnoci je mozny. Prosim poslete predem cas prijezdu, aby recepce pripravila pokyny k check-inu.",
+      "keywords": ["late arrival", "after midnight", "ночной заезд", "после полуночи", "po pulnoci", "pozdni prijezd"]
+    },
+    {
+      "question": "Group booking",
+      "answer": "For group bookings, please contact front.desk@royalcourthotel.cz with dates, number of guests, and room preferences.",
+      "answer_en": "For group bookings, please contact front.desk@royalcourthotel.cz with dates, number of guests, and room preferences.",
+      "answer_ru": "Для группового бронирования напишите на front.desk@royalcourthotel.cz даты, количество гостей и предпочтения по номерам.",
+      "answer_cs": "Pro skupinovou rezervaci napiste na front.desk@royalcourthotel.cz datumy, pocet hostu a preference pokoju.",
+      "keywords": ["group booking", "group", "corporate", "групповое бронирование", "группа", "skupinova rezervace"]
+    },
+    {
+      "question": "Smoking policy",
+      "answer": "Smoking policy depends on room category and house rules. Please follow hotel rules and contact reception for clarification.",
+      "answer_en": "Smoking policy depends on room category and house rules. Please follow hotel rules and contact reception for clarification.",
+      "answer_ru": "Правила курения зависят от категории номера и правил отеля. Пожалуйста, соблюдайте правила и уточняйте детали у ресепшн.",
+      "answer_cs": "Pravidla koureni zavisi na kategorii pokoje a pravidlech hotelu. Dodrzujte prosim hotelova pravidla a detaily overte na recepci.",
+      "keywords": ["smoking", "non smoking", "кальян", "курение", "koureni", "nekuracky"]
+    },
+    {
+      "question": "Damage and incident report",
+      "answer": "If there is damage or incident in the room, please report it immediately in this chat with room number and short description.",
+      "answer_en": "If there is damage or incident in the room, please report it immediately in this chat with room number and short description.",
+      "answer_ru": "Если в номере есть повреждение или инцидент, сразу сообщите в этот чат, указав номер комнаты и краткое описание.",
+      "answer_cs": "Pokud je na pokoji skoda nebo incident, nahlaste to ihned do tohoto chatu s cislem pokoje a kratkym popisem.",
+      "keywords": ["damage", "incident", "broken", "поломка", "повреждение", "skoda", "rozbite"]
+    },
+    {
+      "question": "Business invoice",
+      "answer": "For company invoice, please provide company billing details and reservation reference to front.desk@royalcourthotel.cz.",
+      "answer_en": "For company invoice, please provide company billing details and reservation reference to front.desk@royalcourthotel.cz.",
+      "answer_ru": "Для счета на компанию отправьте реквизиты компании и номер брони на front.desk@royalcourthotel.cz.",
+      "answer_cs": "Pro firemni fakturu poslete fakturacni udaje firmy a cislo rezervace na front.desk@royalcourthotel.cz.",
+      "keywords": ["business invoice", "company invoice", "faktura na firmu", "счет на компанию", "rekvizity"]
+    },
+    {
       "question": "Contact reception",
       "answer": "For additional help, please write in this chat or contact front desk at front.desk@royalcourthotel.cz.",
       "answer_en": "For additional help, please write in this chat or contact front desk at front.desk@royalcourthotel.cz.",
