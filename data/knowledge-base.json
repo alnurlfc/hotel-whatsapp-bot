@@ -82,27 +82,27 @@
     },
     {
       "question": "Wi-Fi",
-      "answer": "Free Wi-Fi is available in all rooms and common areas. If the connection does not work, contact reception.",
-      "answer_en": "Free Wi-Fi is available in all rooms and common areas. If the connection does not work, contact reception.",
-      "answer_ru": "Бесплатный Wi-Fi доступен во всех номерах и зонах отеля. Если интернет не работает, свяжитесь с ресепшн.",
-      "answer_cs": "Bezplatna Wi-Fi je dostupna ve vsech pokojich i spolecnych prostorach. Pokud internet nefunguje, kontaktujte recepci.",
-      "keywords": ["wifi", "wi-fi", "internet", "password", "пароль", "вайфай", "wi fi", "heslo", "internet nefunguje"]
+      "answer": "Wi-Fi network name: Coffee Factory. Password: Legerova48. If you cannot connect, contact reception.",
+      "answer_en": "Wi-Fi network name: Coffee Factory. Password: Legerova48. If you cannot connect, contact reception.",
+      "answer_ru": "Сеть Wi-Fi: Coffee Factory. Пароль: Legerova48. Если не подключается — напишите ресепшн.",
+      "answer_cs": "Wi-Fi sit: Coffee Factory. Heslo: Legerova48. Pokud se neprihlasite, kontaktujte recepci.",
+      "keywords": ["wifi", "wi-fi", "internet", "password", "пароль", "вайфай", "wi fi", "heslo", "internet nefunguje", "coffee factory", "legerova"]
     },
     {
       "question": "Room cleaning",
-      "answer": "If you need extra cleaning or fresh towels, please contact reception in this chat.",
-      "answer_en": "If you need extra cleaning or fresh towels, please contact reception in this chat.",
-      "answer_ru": "Если вам нужна дополнительная уборка или свежие полотенца, напишите на ресепшн в этом чате.",
-      "answer_cs": "Pokud potrebujete extra uklid nebo ciste rucniky, napiste prosim recepci do tohoto chatu.",
-      "keywords": ["cleaning", "housekeeping", "towel", "уборка", "полотенца", "uklid", "rucniky"]
+      "answer": "Standard cleaning is scheduled once for longer stays. For stays of 7 nights or more, we change towels and bed linen. Please leave rubbish bags outside your door; we collect them between 8:00 and 10:00 in the morning. For any extra cleaning, please contact us in this chat or reception.",
+      "answer_en": "Standard cleaning is scheduled once for longer stays. For stays of 7 nights or more, we change towels and bed linen. Please leave rubbish bags outside your door; we collect them between 8:00 and 10:00 in the morning. For any extra cleaning, please contact us in this chat or reception.",
+      "answer_ru": "Уборка проводится один раз при более длительном проживании. При брони от 7 ночей — смена полотенец и постельного белья. Мусор можно оставить в пакете за дверью номера: с 8:00 до 10:00 утра мы его забираем. Нужна дополнительная уборка — напишите нам в этом чате или свяжитесь с ресепшн.",
+      "answer_cs": "Standardni uklid planujeme jednou u delsich pobytu. Pri pobytu 7 a vice noci menime rucniky a povleceni. Odpadky nechte v pytli u dvere pokoje; mezi 8:00 a 10:00 je vyzvedneme. Pro dodatecny uklid nas kontaktujte v tomto chatu nebo na recepci.",
+      "keywords": ["cleaning", "housekeeping", "towel", "уборка", "полотенца", "uklid", "rucniky", "trash", "rubbish", "garbage", "мусор", "smeti", "odpadky", "7 nights", "7 noci", "7 ночей", "postel", "povleceni"]
     },
     {
       "question": "Late check-out",
-      "answer": "Late check-out is possible only upon availability. Please contact reception in advance.",
-      "answer_en": "Late check-out is possible only upon availability. Please contact reception in advance.",
-      "answer_ru": "Поздний выезд возможен только при наличии свободных номеров. Пожалуйста, заранее уточните на ресепшн.",
-      "answer_cs": "Pozdni check-out je mozny pouze podle dostupnosti. Kontaktujte prosim recepci predem.",
-      "keywords": ["late check-out", "late checkout", "поздний выезд", "pozdni odjezd"]
+      "answer": "Late check-out until 12:00 costs 10 EUR; until 13:00 costs 20 EUR. If you need to stay longer, please contact reception so we can confirm availability and options.",
+      "answer_en": "Late check-out until 12:00 costs 10 EUR; until 13:00 costs 20 EUR. If you need to stay longer, please contact reception so we can confirm availability and options.",
+      "answer_ru": "Поздний выезд: до 12:00 — 10 EUR, до 13:00 — 20 EUR. Если нужно остаться дольше — обязательно свяжитесь с ресепшн, чтобы согласовать возможность и условия.",
+      "answer_cs": "Pozdni check-out: do 12:00 za 10 EUR, do 13:00 za 20 EUR. Pokud chcete zustat dele, kontaktujte recepci kvuli dostupnosti a podminkam.",
+      "keywords": ["late check-out", "late checkout", "поздний выезд", "pozdni odjezd", "10 eur", "20 eur", "12:00", "13:00"]
     },
     {
       "question": "Early check-in",
@@ -138,11 +138,11 @@
     },
     {
       "question": "Quiet hours and noise complaint",
-      "answer": "If there is noise or disturbance, please write immediately in this chat and we will contact reception staff.",
-      "answer_en": "If there is noise or disturbance, please write immediately in this chat and we will contact reception staff.",
-      "answer_ru": "Если в номере шум или беспокойство, сразу напишите в этот чат — мы передадим запрос сотруднику ресепшн.",
-      "answer_cs": "Pokud je hluk nebo ruseni, napiste ihned do tohoto chatu a predame to recepci.",
-      "keywords": ["noise", "complaint", "quiet", "шум", "жалоба", "тихо", "hluk", "stiznost"]
+      "answer": "Quiet hours are from 23:00 to 07:00. If there is noise or disturbance at any time, please write immediately in this chat and we will forward it to reception.",
+      "answer_en": "Quiet hours are from 23:00 to 07:00. If there is noise or disturbance at any time, please write immediately in this chat and we will forward it to reception.",
+      "answer_ru": "Тихий час с 23:00 до 7:00 утра. Если шум или беспокойство в любое время — сразу напишите в этот чат, мы передадим запрос на ресепшн.",
+      "answer_cs": "Tichy rezim je od 23:00 do 7:00. Pri hluku nebo ruseni kdykoli napiste ihned do tohoto chatu a predame to recepci.",
+      "keywords": ["noise", "complaint", "quiet", "шум", "жалоба", "тихо", "hluk", "stiznost", "quiet hours", "tichy cas", "23:00", "7:00", "полночь"]
     },
     {
       "question": "Lost and found",
@@ -186,11 +186,11 @@
     },
     {
       "question": "Smoking policy",
-      "answer": "Smoking policy depends on room category and house rules. Please follow hotel rules and contact reception for clarification.",
-      "answer_en": "Smoking policy depends on room category and house rules. Please follow hotel rules and contact reception for clarification.",
-      "answer_ru": "Правила курения зависят от категории номера и правил отеля. Пожалуйста, соблюдайте правила и уточняйте детали у ресепшн.",
-      "answer_cs": "Pravidla koureni zavisi na kategorii pokoje a pravidlech hotelu. Dodrzujte prosim hotelova pravidla a detaily overte na recepci.",
-      "keywords": ["smoking", "non smoking", "кальян", "курение", "koureni", "nekuracky"]
+      "answer": "Our apartments are strictly non-smoking. Smoke detectors are installed throughout. Smoking may result in a fine of up to 500 EUR.",
+      "answer_en": "Our apartments are strictly non-smoking. Smoke detectors are installed throughout. Smoking may result in a fine of up to 500 EUR.",
+      "answer_ru": "У нас строго некурящие апартаменты, установлены датчики дыма. За курение может взиматься штраф до 500 EUR.",
+      "answer_cs": "Apartmany jsou striktne nekuracke, jsou nainstalovane detektory koure. Za koureni muze byt ulozena pokuta az 500 EUR.",
+      "keywords": ["smoking", "non smoking", "кальян", "курение", "koureni", "nekuracky", "cigarette", "vape", "штраф", "pokuta", "500"]
     },
     {
       "question": "Damage and incident report",
